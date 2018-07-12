@@ -177,19 +177,12 @@
             <div class="ui middle aligned stackable grid container">
                 <div class="row">
                     <div class="eight wide column">
-                        <h3 class="ui header">We Help Companies and Companions</h3>
-                        <p>We can give your company superpowers to do things that they never thought possible. Let us delight
-                            your customers and empower your needs...through pure data analytics.</p>
-                        <h3 class="ui header">We Make Bananas That Can Dance</h3>
-                        <p>Yes that's right, you thought it was the stuff of dreams, but even bananas can be bioengineered.</p>
+                        <h3 class="ui header">Design Graphic Application Quicker</h3>
+                        <p>Octoon provides a modern and powerful ECS framework to make development simple. A number of features are supported as the form of ECS system such as graphic, physics, audio and video.
+                        By attaching various component, objects can perform different tasks flexibly.</p>
                     </div>
                     <div class="six wide right floated column">
-                        <img src="assets/images/wireframe/white-image.png" class="ui large bordered rounded image">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="center aligned column">
-                        <a class="ui huge button">Check Them Out</a>
+                        <img src="https://github.com/ray-cast/ray-mmd/raw/master/Shader/screenshots/screen2_small.png" class="ui large bordered rounded image">
                     </div>
                 </div>
             </div>
@@ -200,20 +193,20 @@
             <div class="ui equal width stackable internally celled grid">
                 <div class="center aligned row">
                     <div class="column">
-                        <h3>"What a Company"</h3>
-                        <p>That is what they all say about us</p>
+                        <h3>Made with octoon</h3>
+                        <p>Easy and Simple script development</p>
                     </div>
                     <div class="column">
-                        <h3>"I shouldn't have gone with their competitor."</h3>
+                        <h3>Learn from octoon</h3>
                         <p>
-                            <img src="assets/images/avatar/nan.jpg" class="ui avatar image">
-                            <b>Nan</b> Chief Fun Officer Acme Toys
+                        Beatiful and Clean <b>Modern C++</b> code
                         </p>
                     </div>
                 </div>
             </div>
         </div>
 
+<!--
         <div class="ui vertical stripe segment">
             <div class="ui text container">
                 <h3 class="ui header">Breaking The Grid, Grabs Your Attention</h3>
@@ -230,6 +223,7 @@
                 <a class="ui large button">I'm Still Quite Interested</a>
             </div>
         </div>
+-->
     </div>
 @endsection
 
