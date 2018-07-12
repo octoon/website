@@ -154,7 +154,7 @@
                         <i class="sidebar icon"></i>
                     </a>
                     <a class="active item">Home</a>
-                    <a class="item">Forum</a>
+                    <a class="item" href="/forum">Forum</a>
                     <a class="item" href="https://github.com/octoon/octoon">Github</a>
                     <a class="item">Contribute</a>
                     <div class="right item">
@@ -169,7 +169,8 @@
                     Octoon
                 </h1>
                 <h2>Game Engine with Entity Component System Framework</h2>
-                <div class="ui huge primary button">Get Started
+                <div class="ui huge primary button" onclick="window.open('https://github.com/octoon/octoon');">
+                    Get Started
                     <i class="right arrow icon"></i>
                 </div>
             </div>

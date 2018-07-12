@@ -22,7 +22,7 @@
     <div class="ui large top fixed hidden menu">
         <div class="ui container">
             <a class="active item" href="/">Home</a>
-            <a class="item">Forum</a>
+            <a class="item" href="/forum">Forum</a>
             <a class="item" href="https://github.com/octoon/octoon">Github</a>
             <a class="item">Contribute</a>
             <div class="right menu">
