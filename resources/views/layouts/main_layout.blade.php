@@ -25,14 +25,6 @@
             <a class="item" href="/forum">Forum</a>
             <a class="item" href="https://github.com/octoon/octoon">Github</a>
             <a class="item">Contribute</a>
-            <div class="right menu">
-                <div class="item">
-                    <a class="ui button" href="login">Log in</a>
-                </div>
-                <div class="item">
-                    <a class="ui primary button" href="signup">Sign Up</a>
-                </div>
-            </div>
         </div>
     </div>
 @show

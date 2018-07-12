@@ -157,10 +157,6 @@
                     <a class="item" href="/forum">Forum</a>
                     <a class="item" href="https://github.com/octoon/octoon">Github</a>
                     <a class="item">Contribute</a>
-                    <div class="right item">
-                        <a class="ui inverted button" href="login">Log in</a>
-                        <a class="ui inverted button" href="signup">Sign Up</a>
-                    </div>
                 </div>
             </div>
 
