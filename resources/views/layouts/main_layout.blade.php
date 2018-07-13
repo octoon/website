@@ -24,7 +24,7 @@
             <a class="active item" href="/">Home</a>
             <a class="item" href="/forum">Forum</a>
             <a class="item" href="https://github.com/octoon/octoon">Github</a>
-            <a class="item">Contribute</a>
+            <a class="item" href="https://github.com/octoon/octoon/pulls">Contribute</a>
         </div>
     </div>
 @show
